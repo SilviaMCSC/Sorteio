@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <color name="amarelo">#FFFF00</color>
+    <color name="coloramarelo">@color/botao_jogar</color>>
+
+</resources>
